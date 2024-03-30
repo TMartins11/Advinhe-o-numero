@@ -1,0 +1,1 @@
+Programa em C++ que gera um número aleatório entre 0 e 100, pedindo ao usuário para que dê palpites até encontrar o número certo, o informando se o palpite apresentado é maior, menor ou igual ao número gerado.
